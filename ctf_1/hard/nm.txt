@@ -1,0 +1,1 @@
+﻿find the ip address of sender and receiver and use that as the pass word
